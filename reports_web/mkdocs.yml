@@ -4,9 +4,6 @@ theme:
 
 nav:
   - Лабораторная 2:
-      - Обзор: lab2/index.md
-      - Задача 1: lab2/task1.md
-      - Задача 2: lab2/task2.md
-      - Выводы: lab2/conclusions.md
+      - Отчет: index2.md
   - Лабораторная 3:
-      - Отчет: lab3/index.md
+      - Отчет: index3.md
