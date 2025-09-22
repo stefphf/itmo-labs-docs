@@ -1,6 +1,0 @@
-site_name: Отчёты по лабораторным работам
-theme:
-  name: material
-nav:
-  - Лабораторная 2: index2.md
-  - Лабораторная 3: index3.md
